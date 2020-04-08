@@ -2,11 +2,11 @@
   "req": [
     {
       "status": "aplied",
-      "code": "0"
+      "code": 0
     }
   ],
   "profile": {
     "status": "aplied",
-    "code":"0"
+    "code":0
   }
 }
